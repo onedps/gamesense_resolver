@@ -1,2 +1,3 @@
-# gamesense_resolver
-Resolver on gamesense.
+# This resolver made by fun, but this was so good.
+
+# Enjoy this great method of resolving! ✨
