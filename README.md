@@ -1,3 +1,5 @@
-# This resolver made by fun, but this was so good.
+# Resolver for [gamesense](https://gamesense.pub/) crack.
+---------------------------------------
 
-# Enjoy this great method of resolving! ✨
+## This resolver good enough, but in gamesense not enough normal animfix (some error in calculations).
+## Enjoy!
